@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Gauge from './components/Gauge';
+import Gauge from './components/gauge/Gauge';
 
 class App extends React.Component {
   render(){
